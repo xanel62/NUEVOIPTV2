@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ #0" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: M+ #0
-http://boarcage.top:8080/live/61662587132606/5551662587132606/5546.ts8
+http://boarcage.top:8080/live/61662587132606/5551662587132606/5546.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-estrenos-es.png" group-title="SPAIN",ES: M+ ESTRENOS
 http://boarcage.top:8080/live/61662587132606/5551662587132606/5645.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ ACCION" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-accion-es.png" group-title="SPAIN",ES: M+ ACCION
@@ -81,10 +81,6 @@ http://boarcage.top:8080/live/61662587132606/5551662587132606/24984.ts
 http://boarcage.top:8080/live/61662587132606/5551662587132606/24460.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT UNO" tvg-logo="https://docdog.top/Logotv/countries/italy/sky-sport-uno-it.png" group-title="ITALY",IT: SKY SPORT UNO
 http://boarcage.top:8080/live/61662587132606/5551662587132606/24458.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/italy/rai-1-it.png" group-title="ITALY",IT: RAI SPORT 1
-http://boarcage.top:8080/live/61662587132606/5551662587132606/24465.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SPORT 2" tvg-logo="https://docdog.top/Logotv/countries/italy/rai-2-it.png" group-title="ITALY",IT: RAI SPORT 2
-http://boarcage.top:8080/live/61662587132606/5551662587132606/24464.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/Logotv/countries/france/bein-sports-1-french-fr.png" group-title="FRANCE SPORT",FR: BEIN SPORTS 1
 http://boarcage.top:8080/live/61662587132606/5551662587132606/8298.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/Logotv/countries/france/bein-sports-2-french-fr.png" group-title="FRANCE SPORT",FR: BEIN SPORTS 2
